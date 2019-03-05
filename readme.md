@@ -1,6 +1,6 @@
 # Weather application
 
-![Weather application](display/Android Emulator - Pixel_API_27.gif)
+![Weather application](weather-application-master/display/Android Emulator - Pixel_API_27.gif )
 
 
 
